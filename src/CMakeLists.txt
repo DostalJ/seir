@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # change accordingly
 include_directories("/usr/local/include")
 include_directories("../orpp/orpp")
+include_directories("./")
 
 # nlopt has to be installed, change accordingly
 find_library(LNLOPT libnlopt.so "/usr/local/lib" )

@@ -383,8 +383,8 @@ int main()
     {
 
 /// Uncomment what you want to run
-       run4(g4);
-//       run1(g);
+    //    run4(g4);
+      run1(g);
 //       mzcr2mzcr("2021-03-04", false);
 //       uzis2uzis("2021-03-03", true, false,false,false);
     }
